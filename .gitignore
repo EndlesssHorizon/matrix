@@ -1,0 +1,6 @@
+*.o
+*.out
+*.exe
+.vscode/
+matrix_program
+.DS_Store
